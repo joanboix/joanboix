@@ -3,6 +3,7 @@
 El meu nom és Joan Boix, sóc estudiant d'ASIX-DAM a l'institut de l'Ebre, actualment cursant 1r. 
 
 Si t'interessa contactar amb mi, aquí et deixo algunes de les meves xarxes socials:
+  
   -Instagram: @joanboix
   
   -LinkedIn: https://www.linkedin.com/in/joan-boix-berengu%C3%A9-922042211
