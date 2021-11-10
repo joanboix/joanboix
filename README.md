@@ -4,6 +4,7 @@ El meu nom és Joan Boix, sóc estudiant d'ASIX-DAM a l'institut de l'Ebre, actu
 
 Si t'interessa contactar amb mi, aquí et deixo algunes de les meves xarxes socials:
   -Instagram: @joanboix
+  
   -LinkedIn: https://www.linkedin.com/in/joan-boix-berengu%C3%A9-922042211
 <!--
 **joanboix/joanboix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
