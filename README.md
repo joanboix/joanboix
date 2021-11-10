@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola! 👋
 
+El meu nom és Joan Boix, sóc estudiant d'ASIX-DAM a l'institut de l'Ebre, actualment cursant 1r. 
 <!--
 **joanboix/joanboix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
