@@ -1,12 +1,15 @@
 ### Hola! 👋
 
-El meu nom és Joan Boix, sóc estudiant d'ASIX-DAM a l'institut de l'Ebre, actualment cursant 1r. 
+El meu nom és Joan Boix, sóc estudiant de 2nASIX a l'Institut de l'Ebre. 
 
 Si t'interessa contactar amb mi, aquí et deixo algunes de les meves xarxes socials:
   
   -Instagram: https://www.instagram.com/joanboix/
   
   -LinkedIn: https://www.linkedin.com/in/joan-boix-berengu%C3%A9-922042211
+  
+  
+  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png)
 <!--
 **joanboix/joanboix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
