@@ -25,4 +25,5 @@ Si t'interessa contactar amb mi, aquí et deixo algunes de les meves xarxes soci
   [<img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" width=150/>](mysql)
   [<img src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-mygalaxy-view-singularlogic-6.png" width=150/>](windows)
   [<img src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png" width=150/>](git)
+  [<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width=150/>](html)
 
